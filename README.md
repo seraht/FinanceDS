@@ -3,8 +3,8 @@
 
 
 Submitted by :
-Serah Abensour 
 Avidan Cohen 
+Serah Abensour 
 
 </h2>Research question: Defining and testing investment strategies</h2>
 
