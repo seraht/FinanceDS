@@ -1,11 +1,12 @@
-#Financial Data Science Project
+
+<h1>Financial Data Science Project</h1>
 
 
 Submitted by :
 Serah Abensour 
 Avidan Cohen 
 
-###Research question: Defining and testing investment strategies
+</h2>Research question: Defining and testing investment strategies</h2>
 
 *Data sources:*
 
